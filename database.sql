@@ -1,0 +1,1 @@
+INSERT INTO `payment_methods` (`id`, `method_name`, `method_get`, `method_min`, `method_max`, `method_type`, `method_extras`, `method_line`, `nouse`, `content`) VALUES ('77', 'TZSMMPAY', 'tzsmmpay', '1', '1000', '2', '{\"method_type\":\"2\",\"name\":\"TZSMM Pay Gateway\",\"min\":\"10\",\"max\":\"10000\",\"api_key\":\"sandbox\",\"fee\":\"10\"}', '77', '2', 'Crazy Developer BD')
